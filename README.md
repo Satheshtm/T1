@@ -11,8 +11,9 @@ DURATION:6 WEEKS
 
 MENTOR: NELLA SANTOSH
 
-#TASK DESCRIOTON 
-#Project Title:
+# TASK DESCRIPTION
+
+# Project Title:
 Expense Tracker App with Categorization, Charts, and Data Persistence
 
 #🔸 Description:
