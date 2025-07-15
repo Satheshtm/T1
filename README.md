@@ -11,12 +11,12 @@ DURATION:6 WEEKS
 
 MENTOR: NELLA SANTOSH
 
-# TASK DESCRIPTION
+# TASK DESCRIPTION :
 
 # Project Title:
 Expense Tracker App with Categorization, Charts, and Data Persistence
 
-#🔸 Description:
+# 🔸 Description:
 This project involves the development of a simple and user-friendly Android mobile application that helps users to track their daily expenses, categorize them, and view a visual summary using charts. The app is designed to make personal finance management easy and organized.
 
 The core idea of this app is to allow users to enter their expenses, group them into categories such as Food, Transport, Shopping, Utilities, etc., and store this data locally using Room (a modern database library built on top of SQLite) or directly using SQLite. This ensures that the user's data is saved on the device and is available even after the app is closed or the phone is restarted.
