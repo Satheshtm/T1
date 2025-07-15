@@ -41,7 +41,7 @@ Works offline and is suitable for day-to-day use
 
 This app can be a valuable tool for anyone who wants to manage their money better by tracking where and how they spend it.
 
-#OUTPUT OF TASK
+# OUTPUT OF TASK
 
 <img width="1912" height="855" alt="Image" src="https://github.com/user-attachments/assets/3ed0fd79-42ef-4507-8119-420f477c9eed" />
 <img width="1901" height="861" alt="Image" src="https://github.com/user-attachments/assets/685ed030-2350-4df4-83ca-07144bdf7080" />
