@@ -42,3 +42,8 @@ This app can be a valuable tool for anyone who wants to manage their money bette
 
 #OUTPUT OF TASK
 
+<img width="1912" height="855" alt="Image" src="https://github.com/user-attachments/assets/3ed0fd79-42ef-4507-8119-420f477c9eed" />
+<img width="1901" height="861" alt="Image" src="https://github.com/user-attachments/assets/685ed030-2350-4df4-83ca-07144bdf7080" />
+<img width="1906" height="877" alt="Image" src="https://github.com/user-attachments/assets/ce61da78-3441-4d1e-857f-ddc2081b51b6" />
+<img width="1892" height="859" alt="Image" src="https://github.com/user-attachments/assets/ef76ef0f-18be-44b6-9413-23fa671e8695" />
+
